@@ -7,4 +7,4 @@ PHP client libraries for RESTful-like APIs generator based on Swagger annotation
 Use --help for more information.
 
 ## Example
-See in [example](example) folder the client, generated for [FooController](example/FooController.php) annotations.
+In [example](example) folder there is the client, generated for [FooController](example/FooController.php) annotations.
