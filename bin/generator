@@ -1,0 +1,9 @@
+#!/usr/bin/env php
+<?php
+set_time_limit(0);
+
+$loader = require_once __DIR__.'/../vendor/autoload.php';
+
+$app = new Symfony\Component\Console\Application('SW API generator', '0.0.1');
+$app->add(new \Swapi\GenerateCommand());
+$app->run();
