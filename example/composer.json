@@ -1,0 +1,1 @@
+{"name":"baz\/api-client-php","description":"PHP API client library for Baz","require":{"php":">=5.4.0","kriswallsmith\/buzz":"*"},"autoload":{"psr-4":{"Baz\\":"src\/"}}}

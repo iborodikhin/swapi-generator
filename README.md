@@ -5,3 +5,6 @@ PHP client libraries for RESTful-like APIs generator based on Swagger annotation
 `./bin/generator generate -s /path/to/api/source -d /path/to/api/client -p ApiClientNamespace`
 
 Use --help for more information.
+
+## Example
+See in [example](example) folder.
